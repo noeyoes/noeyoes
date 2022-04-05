@@ -12,4 +12,4 @@
 <div align=center>
 
 ![seoyeon's github stats](https://github-readme-stats.vercel.app/api?username=olsy1128&show_icons=true)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syeon02)](https://solved.ac/syeoni1128)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syeoni1128)](https://solved.ac/syeoni1128)
