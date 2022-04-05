@@ -1,8 +1,13 @@
 <div align=center> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=F3F4A9&text=✨%20Hi,%20I'm%20Seoyeon%20✨%20&height=300&fontSize=50&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F3F4A9&text=✨%20Hi,%20I'm%20Seoyeon%20Lee%20✨%20&height=300&fontSize=50&animation=scaleIn)
   </div>
   
+# <div align=center> 🎈 Me 🎈
+  <div align=center><a href="https://www.instagram.com/rn.ozul/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/lsy021128@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+<a href="https://blog.naver.com/lsy021128"><img src="https://img.shields.io/badge/Daily Blog-09B3AF?style=flat-square&logo=Storyblock&logoColor=white"/></a>
+    
 #  <div align=center> 🛠️ Tech Stack 🛠️
   <div align=center> Techs that I've used at least once </div>  
   <br/>
