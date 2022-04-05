@@ -1,6 +1,6 @@
 <div align=center> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9FEE89&text=✨%20Hi,%20I'm%20Seoyeon%20✨%20&height=300&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F3F4A9&text=✨%20Hi,%20I'm%20Seoyeon%20✨%20&height=300&fontSize=50&animation=scaleIn)
   </div>
   
 #  <div align=center> 🛠️ Tech Stack 🛠️
@@ -17,5 +17,5 @@
 ![seoyeon's github stats](https://github-readme-stats.vercel.app/api?username=olsy1128&show_icons=true)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syeoni1128)](https://solved.ac/syeoni1128)
   
-![footer](https://capsule-render.vercel.app/api?type=waving&color=9FEE89&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=F3F4A9&height=200&section=footer)
 </div>
