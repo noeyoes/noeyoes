@@ -1,4 +1,4 @@
-<div align=center> 
+<!-- <div align=center> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F3F4A9&text=✨%20Hi,%20I'm%20Seoyeon%20Lee%20✨%20&height=300&fontSize=50&animation=scaleIn)
   </div>
@@ -24,3 +24,4 @@
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F3F4A9&height=200&section=footer)
 </div>
+-->
