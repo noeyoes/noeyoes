@@ -1,4 +1,5 @@
-<!-- <div align=center> 
+<!--
+<div align=center> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F3F4A9&text=✨%20Hi,%20I'm%20Seoyeon%20Lee%20✨%20&height=300&fontSize=50&animation=scaleIn)
   </div>
@@ -17,11 +18,17 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp  </div>
 <br>
 
-<div align=center>
-  
-![seoyeon's github stats](https://github-readme-stats.vercel.app/api?username=olsy1128&show_icons=true)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syeoni1128)](https://solved.ac/syeoni1128)
-  
+
+
+<div align=center>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F3F4A9&height=200&section=footer)
 </div>
 -->
+
+<div align=center>
+
+## Hi I'm seoyeon 🐰
+
+![seoyeon's github stats](https://github-readme-stats.vercel.app/api?username=olsy1128&show_icons=true)
