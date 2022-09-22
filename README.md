@@ -20,6 +20,8 @@
 <a href="https://velog.io/@neoyoes" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 -->
+
+<!--
 ### <div align=center>🛠️ Tech Stack 🛠️
 <div align=center>Techs that I've used at least once </div>  
 <br />
@@ -30,7 +32,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a> &nbsp
-
+-->
 <div align=center>
 <br />
   
