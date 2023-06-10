@@ -37,4 +37,5 @@
 <br />
   
 ![seoyeon's github stats](https://github-readme-stats.vercel.app/api?username=noeyoes&theme=graywhite&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeyoes&layout=compact">
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syeoni1128)](https://solved.ac/syeoni1128) -->
