@@ -14,6 +14,11 @@
 <p>☁️ 구름톤 유니브 1기 BE [2023.10 ~ 2023.12]</p>
 <br>
 
+## 🏆 Awards
+<p>🏅 상명대학교 컴퓨터과학전공 캡스톤디자인 최우수상</p>
+<br>
+
+
 ## 🌱 Github Stats
 <div align="left" style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=noeyoes&theme=graywhite&show_icons=true" width="400" />
